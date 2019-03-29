@@ -22,10 +22,13 @@
   },
   "homepage": "https://github.com/EpmakJS/mern-shopping-list#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
     "bootstrap": "^4.3.1",
     "concurrently": "^4.1.0",
+    "config": "^3.0.1",
     "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.4.19",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
@@ -34,7 +37,7 @@
     "uuid": "^3.3.2"
   },
   "devDependencies": {
-    "eslint": "^5.15.3",
+    "eslint": "^5.12.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^4.1.0",
     "eslint-plugin-import": "^2.16.0",
